@@ -1,8 +1,9 @@
 # ⚡ WELCOME TO AKASH MD ⚡
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nmalsha/AKASH-MD/main/https://github.com/nmalshan55-crypto/AKASH-MD/blob/main/file_00000000685871f5bf18536bb0c8ae3c.png" alt="AKASH MD" width="500"/>
+  <img src="https://raw.githubusercontent.com/nmalsha/AKASH-MD/main/file_00000000685871f5bf18536f901b0f5b.jpg" alt="AKASH MD" width="500"/>
 </p>
+
 
 
 
